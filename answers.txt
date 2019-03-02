@@ -9,6 +9,7 @@ it would just make a copy.
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+The git push command is used to upload local repository content to a remote repository.
 
 Task 3:
 
