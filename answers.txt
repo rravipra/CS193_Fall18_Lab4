@@ -1,7 +1,7 @@
 Task 1:
 
 // Under this line write a message to yourself from GitHub
-
+Hello World!
 // Under this line, describe what the command 'git fetch' does
 it gets the files from git but it won't merge or overwrite anything 
 it would just make a copy.
